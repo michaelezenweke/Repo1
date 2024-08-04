@@ -6,3 +6,9 @@ This repository is where we will save our resume project.
 | ---- | :----: | ----: |
 | One  |  Two   | $120  |
 | Three|  Four  | $140  |
+
+
+- [x] First commit
+   - [x] edits title
+   - [x] edits paragraph
+- [] Second commit
